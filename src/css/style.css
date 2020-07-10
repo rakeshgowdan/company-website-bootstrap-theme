@@ -58,3 +58,7 @@ body {
   color: white; }
   #video-play a {
     color: white; }
+
+footer#main-footer {
+  background: black;
+  color: white; }
